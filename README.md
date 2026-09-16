@@ -29,8 +29,8 @@ Ini adalah proyek React yang dikembangkan menggunakan Vite — sebuah build tool
 1. **Clone repositori ini:**
 
    ```bash
-   git clone https://github.com/username/zain-portofolio.git
-   cd zain-portofolio
+   git clone https://github.com/RayImoet/portofolio.git
+   cd portofolio
    ```
 
 2. **Install dependencies:**
@@ -92,6 +92,6 @@ Setiap dukungan sangat berarti dan membantu saya untuk terus mengembangkan proye
 
 ## 🌐 Sosial Media
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/zainahmadfahrezi)
-* 📸 Instagram: [@zain.ahmadf](https://www.instagram.com/raymuuuu)
-* 🎥 TikTok: [@zainahmad.f](https://www.tiktok.com/@bigshitter02)
+* 💼 [LinkedIn](https://www.linkedin.com/in/)
+* 📸 Instagram: [@raymuuuu](https://www.instagram.com/raymuuuu)
+* 🎥 TikTok: [@BigShitter02](https://www.tiktok.com/@bigshitter02)

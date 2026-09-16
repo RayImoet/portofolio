@@ -17,6 +17,8 @@ import { supabase } from '../lib/supabase';
 import webpijat from "../assets/images/webpijat.png";
 import pengadaanbarang from "../assets/images/pengadaanbarang.png";
 
+
+
 // ===================================
 // DATA PROYEK (FALLBACK - will be replaced by DB data)
 // ===================================
@@ -46,12 +48,13 @@ const dummyProjects = [
 const userCertificates = [
   
   {
-    title: "Belajar Dasar Pemrograman Web",
-    issuer: "Dicoding Indonesia",
-    date: "Nov 2023",
-    link: "/certificates/Belajar Dasar Pemrograman Web.pdf",
-    image: "/certificate-images/Belajar Dasar Pemrograman Web.jpg",
-  },
+  title: "Pelatihan Kegiatan Pelatihan Softskill Aksiku",
+  description: "Sertifikat pelatihan softskill.",
+  tech: ["Certificate"],
+  link: "/certificate/aksiku.pdf",
+  image: "/certificate-images/aksiku.png",
+  category: "Certificate",
+},
 ];
 
 const techStack = {
